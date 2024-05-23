@@ -7,7 +7,6 @@ Welcome to our Home Decor Website! This website is dedicated to providing inspir
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -21,7 +20,7 @@ Welcome to our Home Decor Website! This website is dedicated to providing inspir
 This website is hosted on the web and can be accessed through any modern web browser. There is no installation required.
 
 ## Usage
-Simply visit the website URL [insert website URL here] to start exploring our home decor resources. Use the navigation menu to browse different categories, search for specific items, or join our community forum to connect with other users.
+Simply visit the website URL [(https://www.instagram.com/perspeq.t/)] to start exploring our home decor resources. Use the navigation menu to browse different categories, search for specific items, or join our community forum to connect with other users.
 
 ## Contributing
 We welcome contributions from the community to help improve and expand our home decor website. If you have ideas for new features, improvements to existing features, or spot any issues that need fixing, please feel free to submit a pull request or open an issue on GitHub.
